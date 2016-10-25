@@ -1,0 +1,15 @@
+Qs about PolyGo
+
+Priority: High
+1. How to define sizeof, Re, Im and Conj? Operator and function?
+2. How to solve the function overloading?
+3. How to use the function of poly module? Definition of "." (like poly.evaluate)
+
+
+Priority: Medium
+1. How to solve the operator overloading? 
+2. How to define string and char type? String is a module or a primitive data type?
+3. Definition of "open". Open a module?
+
+Priority: Low
+1. 
